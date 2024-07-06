@@ -8,7 +8,7 @@
     "server": "nodemon server.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\" ",
-    "install client":"npm install --prefix client",
+    "installclient":"npm install --prefix client"
   },
   "keywords": [],
   "author": "Techinfoyt",
